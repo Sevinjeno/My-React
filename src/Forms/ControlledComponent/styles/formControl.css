@@ -1,0 +1,18 @@
+.formcontrol-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formcontrol-container  div {
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+  padding: 7px;
+  color: white;
+  background: rgb(123, 175, 243);
+  border:none;
+  border-radius: 5px;
+  cursor: pointer;
+}
